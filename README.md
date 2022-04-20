@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... frontEnd
 - 🌱 I’m currently learning ... vanilaJS
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... email me
+- 📫 How to reach me ... email me (audwls172@gmail.com)
 
 <!---
 mjLee1998/mjLee1998 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
